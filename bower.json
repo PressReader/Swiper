@@ -1,7 +1,7 @@
 {
   "name": "Swiper",
   "description": "Most modern mobile touch slider and framework with hardware accelerated transitions",
-  "version": "3.3.1",
+  "version": "3.3.2",
   "author": "Vladimir Kharlampidi",
   "homepage": "https://github.com/pressReader/swiper/",
   "keywords": ["swiper", "swipe", "slider", "touch", "ios", "mobile", "cordova", "phonegap", "app", "framework", "carousel", "gallery"],
